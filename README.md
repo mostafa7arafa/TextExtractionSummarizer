@@ -36,6 +36,14 @@ Output (with 2 sentences):
 ```
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer semper leo justo, id finibus dolor facilisis et. Ut sit amet ligula vehicula, luctus ipsum vel, dapibus turpis.
 ```
+## Video
+
+
+https://github.com/mostafa7arafa/TextExtractionSummarizer/assets/58299212/da0ee8ec-5d14-419d-88ba-bd5225501b7b
+
+
+## Error Handling
+The GUI incorporates error handling to ensure that only numeric values are accepted as input for specifying the number of sentences in the summary. If a non-numeric value is entered, an appropriate error message is displayed to the user.
 
 ## Credits
 - [Spacy](https://spacy.io/) - For natural language processing capabilities
