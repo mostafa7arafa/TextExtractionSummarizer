@@ -39,7 +39,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 ## Video
 
 
-https://github.com/mostafa7arafa/TextExtractionSummarizer/assets/58299212/da0ee8ec-5d14-419d-88ba-bd5225501b7b
+https://github.com/mostafa7arafa/TextExtractionSummarizer/assets/58299212/1165d0e1-f35f-4529-8904-fde0a0ffaa36
 
 
 ## Error Handling
